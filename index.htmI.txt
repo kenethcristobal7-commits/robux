@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Donation Page</title>
+</head>
+
+<body style="text-align:center; font-family:Arial; background:#111827; color:white;">
+
+  <h1>💰 Donation Page</h1>
+
+  <p>Support the streamer / creator</p>
+
+  <input placeholder="Your Name" style="padding:10px; margin:5px;">
+  <br>
+
+  <input placeholder="Message" style="padding:10px; margin:5px;">
+  <br><br>
+
+  <button style="padding:10px 20px; background:green; color:white; border:none;">
+    Donate
+  </button>
+
+  <h3 style="margin-top:30px;">Top Donors</h3>
+
+  <ul style="list-style:none; padding:0;">
+    <li>Player1 - ₱10</li>
+    <li>Player2 - ₱50</li>
+    <li>Player3 - ₱100</li>
+  </ul>
+
+</body>
+</html>
